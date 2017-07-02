@@ -1,0 +1,33 @@
+{
+  "name": "regex-pipe",
+  "version": "0.0.1",
+  "description": "A transformation piping tool based on regex",
+  "main": "main.js",
+  "keywords": [
+    "pipe",
+    "regex",
+    "transformation",
+    "parse",
+    "replace"
+  ],
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potentii/regex-pipe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Potentii/regex-pipe/issues"
+  },
+  "homepage": "https://github.com/Potentii/regex-pipe#readme",
+  "files": [
+    "main.js",
+    "README.md",
+    "LICENSE.txt",
+    "libs/"
+  ],
+  "dependencies": {
+    "isstream": "0.1.2",
+    "split": "1.0.0"
+  }
+}
